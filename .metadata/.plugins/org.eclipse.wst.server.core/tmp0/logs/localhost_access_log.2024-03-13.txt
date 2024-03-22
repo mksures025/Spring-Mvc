@@ -1,0 +1,6 @@
+127.0.0.1 - - [13/Mar/2024:07:26:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:07:26:31 +0530] "GET /colleage-management-system/WEB-INF/classes/com/te/cms/controller/ApplicationController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:07:26:31 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:07:26:53 +0530] "GET /colleage-management-system/Wapp/cms/login HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:07:27:14 +0530] "GET /colleage-management-system/app/cms/login HTTP/1.1" 200 655
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:07:27:23 +0530] "POST /colleage-management-system/app/cms/login HTTP/1.1" 415 722

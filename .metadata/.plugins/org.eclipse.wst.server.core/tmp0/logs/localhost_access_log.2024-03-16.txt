@@ -1,0 +1,4 @@
+127.0.0.1 - - [16/Mar/2024:12:54:44 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Mar/2024:12:54:45 +0530] "GET /colleage-management-system/ HTTP/1.1" 200 56
+0:0:0:0:0:0:0:1 - - [16/Mar/2024:12:54:45 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [16/Mar/2024:12:56:01 +0530] "GET /colleage-management-system/app/cms/register HTTP/1.1" 200 1400

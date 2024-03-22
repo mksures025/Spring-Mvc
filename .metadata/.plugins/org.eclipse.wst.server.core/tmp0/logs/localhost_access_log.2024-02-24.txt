@@ -1,0 +1,17 @@
+127.0.0.1 - - [24/Feb/2024:17:59:34 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:17:59:34 +0530] "GET /colleage-management-system/WEB-INF/classes/com/te/cms/controller/ApplicationController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:17:59:35 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:00:08 +0530] "GET /colleage-management-system/app/cms/register HTTP/1.1" 200 1400
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:00:38 +0530] "POST /colleage-management-system/app/cms/register HTTP/1.1" 200 701
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:02:05 +0530] "GET /colleage-management-system/app/cms/register HTTP/1.1" 200 1400
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:02:13 +0530] "GET /colleage-management-system/app/cms/register HTTP/1.1" 200 1400
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:02:35 +0530] "POST /colleage-management-system/app/cms/register HTTP/1.1" 404 770
+127.0.0.1 - - [24/Feb/2024:18:03:48 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:03:49 +0530] "GET /colleage-management-system/WEB-INF/classes/com/te/cms/controller/ApplicationController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:04:08 +0530] "GET /colleage-management-system/app/cms/register HTTP/1.1" 200 1400
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:04:33 +0530] "POST /colleage-management-system/app/cms/register HTTP/1.1" 404 770
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:05:30 +0530] "POST /colleage-management-system/app/cms/register HTTP/1.1" 200 201
+127.0.0.1 - - [24/Feb/2024:18:19:32 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:19:32 +0530] "GET /colleage-management-system/WEB-INF/classes/com/te/cms/controller/ApplicationController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:19:49 +0530] "GET /colleage-management-system/app/cms/register HTTP/1.1" 200 1400
+0:0:0:0:0:0:0:1 - - [24/Feb/2024:18:20:06 +0530] "POST /colleage-management-system/app/cms/register HTTP/1.1" 500 201
